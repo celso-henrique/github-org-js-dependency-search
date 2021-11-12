@@ -4,7 +4,7 @@
   "description": "This project will search all projects in an organization for a specific dependency in the package.json file.",
   "main": "index.js",
   "scripts": {
-   "start": "node index.js"
+    "start": "node index.js"
   },
   "author": "Celso Henrique <celso.henrique@hotmail.com.br>",
   "license": "MIT",

@@ -1,4 +1,4 @@
-const inqurer = require('inquirer');
+const inquirer = require('inquirer');
 const { Octokit } = require('@octokit/rest');
 const fs = require('fs');
 
