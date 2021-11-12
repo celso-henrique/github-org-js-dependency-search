@@ -37,3 +37,7 @@ Just execute the command bellow and wait for the `data.json` output:
 ```
 npm start
 ```
+
+# License
+
+This project is [MIT licensed](./LICENSE).

@@ -7,7 +7,7 @@
    "start": "node index.js"
   },
   "author": "Celso Henrique <celso.henrique@hotmail.com.br>",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "@octokit/rest": "^18.0.4",
     "inquirer": "^7.3.3"
