@@ -24,7 +24,7 @@ Output example of a search for `lib-dependency`:
 
 ```
 # Personal Token
-To run this project you will need to generate a [Github Personal Token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token).
+To run this project you will need to generate a [Github Personal Token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token), please give at least projects and files reading permission.
 
 # Install
 Clone this repository and install it dependencies:
