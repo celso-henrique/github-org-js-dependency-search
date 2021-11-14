@@ -29,13 +29,13 @@ To run this project you will need to generate a [Github Personal Token](https://
 # Install
 Clone this repository and install it dependencies:
 ```
-npm install
+$ npm install
 ```
 
 # Running
 Just execute the command bellow, answer the questions and wait for the `data.json` output:
 ```
-npm start
+$ npm start
 ```
 
 # License
