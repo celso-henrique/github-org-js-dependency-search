@@ -33,7 +33,7 @@ $ npm install
 ```
 
 # Running
-Just execute the command bellow, answer the questions and wait for the `data.json` output:
+Just execute the command bellow, answer the questions and wait for the `data.json` output file:
 ```
 $ npm start
 ```
