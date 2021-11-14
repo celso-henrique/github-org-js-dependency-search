@@ -1,11 +1,11 @@
-Javascript Organization Dependency Search
+Github Org JS Dependency Search
 ====================
-Ever wondered how many projects in a given Github organization have a lib dependency? This script was created to solve this problem.
+Ever wondered how many projects in a given Github organization have a specific lib dependency, but there are too many projects to look for? This script was created to solve this problem.
 
-This project will search all projects in an organization for a specific dependency in the package.json file.
+This project will search in all projects in an organization for a specific dependency into the `package.json` file.
 
 
-File output example:
+Output example of a search for `lib-dependency`:
 ```json
 [
    {
