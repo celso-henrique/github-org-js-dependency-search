@@ -27,13 +27,13 @@ Output example of a search for `lib-dependency`:
 To run this project you will need to generate a [Github Personal Token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token).
 
 # Install
-Clone this repository ` and install it dependencies with this command:
+Clone this repository and install it dependencies:
 ```
 npm install
 ```
 
 # Running
-Just execute the command bellow and wait for the `data.json` output:
+Just execute the command bellow, answer the questions and wait for the `data.json` output:
 ```
 npm start
 ```
